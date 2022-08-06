@@ -1,0 +1,58 @@
+╭───┬─────────────────────────────────────┬───────────╮
+│ # │                name                 │   size    │
+├───┼─────────────────────────────────────┼───────────┤
+│ 0 │ ne_110m_admin_0_countries.arrow     │ 474.7 KiB │
+│ 1 │ ne_110m_admin_0_countries.fgb       │ 478.2 KiB │
+│ 2 │ ne_110m_admin_0_countries.gpkg      │ 552.0 KiB │
+│ 3 │ ne_110m_admin_0_countries_zstd.gpkg │ 632.0 KiB │
+│ 4 │ ne_110m_admin_0_countries.shp       │ 697.5 KiB │
+│ 5 │ ne_110m_admin_0_countries.json      │   1.1 MiB │
+╰───┴─────────────────────────────────────┴───────────╯
+╭───┬────────────────────────────────────────┬───────────╮
+│ # │                  name                  │   size    │
+├───┼────────────────────────────────────────┼───────────┤
+│ 0 │ ne_110m_admin_0_countries.arrow.gz     │ 197.7 KiB │
+│ 1 │ ne_110m_admin_0_countries.zip          │ 209.9 KiB │
+│ 2 │ ne_110m_admin_0_countries.gpkg.gz      │ 212.8 KiB │
+│ 3 │ ne_110m_admin_0_countries.fgb.gz       │ 230.5 KiB │
+│ 4 │ ne_110m_admin_0_countries_zstd.gpkg.gz │ 235.7 KiB │
+│ 5 │ ne_110m_admin_0_countries.json.gz      │ 290.6 KiB │
+╰───┴────────────────────────────────────────┴───────────╯
+╭───┬─────────────────────┬───────────╮
+│ # │        name         │   size    │
+├───┼─────────────────────┼───────────┤
+│ 0 │ countries.arrow     │ 181.9 KiB │
+│ 1 │ countries.fgb       │ 200.9 KiB │
+│ 2 │ countries.shp       │ 206.8 KiB │
+│ 3 │ countries_zstd.gpkg │ 296.0 KiB │
+│ 4 │ countries.json      │ 297.5 KiB │
+│ 5 │ countries.gpkg      │ 316.0 KiB │
+╰───┴─────────────────────┴───────────╯
+╭───┬────────────────────────┬───────────╮
+│ # │          name          │   size    │
+├───┼────────────────────────┼───────────┤
+│ 0 │ countries.json.gz      │  93.2 KiB │
+│ 1 │ countries.arrow.gz     │ 122.0 KiB │
+│ 2 │ countries.fgb.gz       │ 128.0 KiB │
+│ 3 │ countries.gpkg.gz      │ 132.5 KiB │
+│ 4 │ countries_zstd.gpkg.gz │ 162.0 KiB │
+╰───┴────────────────────────┴───────────╯
+╭───┬──────────────────────┬──────────╮
+│ # │         name         │   size   │
+├───┼──────────────────────┼──────────┤
+│ 0 │ UScounties_zstd.gpkg │ 10.2 MiB │
+│ 1 │ UScounties.arrow     │ 13.0 MiB │
+│ 2 │ UScounties.fgb       │ 13.4 MiB │
+│ 3 │ UScounties.shp       │ 14.4 MiB │
+│ 4 │ UScounties.gpkg      │ 15.4 MiB │
+│ 5 │ UScounties.json      │ 23.4 MiB │
+╰───┴──────────────────────┴──────────╯
+╭───┬─────────────────────────┬─────────╮
+│ # │          name           │  size   │
+├───┼─────────────────────────┼─────────┤
+│ 0 │ UScounties.json.gz      │ 6.1 MiB │
+│ 1 │ UScounties.arrow.gz     │ 7.4 MiB │
+│ 2 │ UScounties.fgb.gz       │ 7.6 MiB │
+│ 3 │ UScounties.gpkg.gz      │ 7.8 MiB │
+│ 4 │ UScounties_zstd.gpkg.gz │ 8.3 MiB │
+╰───┴─────────────────────────┴─────────╯
